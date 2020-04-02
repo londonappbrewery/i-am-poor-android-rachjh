@@ -13,18 +13,19 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="509dp"
-        android:layout_height="763dp"
+        android:layout_width="531dp"
+        android:layout_height="693dp"
         android:layout_marginTop="77dp"
         app:srcCompat="@drawable/coal" />
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="202dp"
-        android:layout_height="98dp"
+        android:layout_width="289dp"
+        android:layout_height="110dp"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="53dp"
         android:text="@string/title"
         android:textColor="#000000"
-        android:textSize="40sp" />
+        android:textSize="60sp" />
 
 </RelativeLayout>
